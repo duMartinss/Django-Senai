@@ -1,3 +1,6 @@
+Clique no arquivo e depois clique em "view
+
+
 Eduardo Esteves Martins | SENAI "Antônio Devisate" | Tecnico em Desenvolvimento de Sistemas
 Academia de Boxe - Django
 --> Esse é um projeto que eu fiz, juntamente com o material de apoio do Senai. Esse é um site de uma Academia de Boxe 
