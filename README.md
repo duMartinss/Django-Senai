@@ -1,4 +1,4 @@
-Clique no arquivo e depois clique em "view
+Clique no arquivo e depois clique em "view raw", logo em  seguida o arquivo será baixado.
 
 
 Eduardo Esteves Martins | SENAI "Antônio Devisate" | Tecnico em Desenvolvimento de Sistemas
